@@ -8,3 +8,8 @@ Este repositorio consiste en una serie de soluciones para iluminar el jardín, p
 
 Son una solución simple, con el objetivo de marcar los límites de un camino (por ejemplo), sin llamar la atención, tanto de día como de noche. Más información al respecto en [la carpeta de setas](setas).
 
+## Mariquitas
+
+![Instalación terminada de mariquitas luminosas](mariquitas/images/foto_dia.jpg)
+
+Se trata de una instalación que permite iluminar la forma de un árbol, pero sin desentonar ni resultar molesta. Lógicamente, puede utilizarse también para iluminar fachadas u otros elementos mayoritariamente verticales. Más información en [la carpeta de mariquitas](mariquitas).
