@@ -31,7 +31,7 @@ El diseño estructural atravesó varias etapas hasta la geometría final (como s
 
 ![Evolución mariquitas](images/evolucion_mariquitas.jpg)
 
-Para todas las piezas se utiliza PETG, de colores negro y rojo o amarillo y rojo, a excepción del abdómen, para el cual es más adecuada la impresión mediante MSLA. Las impresoras MSLA utilizan resinas fotosensibles como materia prima, y una pantalla ultravioleta para solidificar las capas. Por este motivo, las líneas de impresión y las capas son mucho más pequeñas, obteniendo una precisión mucho mayor. Utilizando una resina transparente, la pieza impresa es mucho más próxima al resultado deseado que utilizando FDM. Además, los tiempos de impresión también se reducen considerablemente.
+Para todas las piezas se utiliza PETG, de colores negro y rojo o amarillo y rojo, a excepción del abdomen, para el cual es más adecuada la impresión mediante MSLA. Las impresoras MSLA utilizan resinas fotosensibles como materia prima, y una pantalla ultravioleta para solidificar las capas. Por este motivo, las líneas de impresión y las capas son mucho más pequeñas, obteniendo una precisión mucho mayor. Utilizando una resina transparente, la pieza impresa es mucho más próxima al resultado deseado que utilizando FDM. Además, los tiempos de impresión también se reducen considerablemente.
 
 Por otro lado, las resinas fotosensibles, y a diferencia del PETG, tienden a amarillear con el tiempo. El amarilleo fue ensayado utilizando una cámara de curado ultravioleta, tras lo cual se perciben los siguientes resultados:
 
@@ -43,7 +43,7 @@ El PETG, a pesar de ser traslúcido, pasa a un color blanquecino al imprimirse, 
 
 La mayoría de las piezas se imprimen en una impresora FDM convencional, con altura de capa 0,12 mm y boquilla de 0,4 mm. Se utiliza filamento de PETG rojo o amarillo para los élitros, y filamento negro para el cuerpo. Los abdómenes están impresos en una impresora de resina con resina estándar traslúcida. Las piezas impresas están postprocesadas mediante lavado con isopropanol y curado en cámara UV.Están disponibles más instrucciones de impresión en [Printables](https://www.printables.com/model/1791994-ladybug-decoration)
 
-Los puntos de los élitros están marcados en el propio modelo mediante pequeñas hendiduras en la superfice. Cada élitro cuenta con 3 puntos y medio. Estos puntos están pintados con esmalte de uñas convencional. Es una pintura extraordinariamente resistente y mucho más económina que otras soluciones semejantes. Para el proceso de pintado se utiliza un trozo de espuma floral, que sujetará las piezas en el plano de trabajo. Con un cuentagotas se pueden depositar pequeñas cantidades de esmalte en donde sea necesario, y, con la ayuda de la tensión superficial y la depresion en la pieza, el círculo que se forma es casi perfecto. 
+Los puntos de los élitros están marcados en el propio modelo mediante pequeñas hendiduras en la superfice. Cada élitro cuenta con 3 puntos y medio. Estos puntos están pintados con esmalte de uñas convencional. Es una pintura extraordinariamente resistente y mucho más económica que otras soluciones semejantes. Para el proceso de pintado se utiliza un trozo de espuma floral, que sujetará las piezas en el plano de trabajo. Con un cuentagotas se pueden depositar pequeñas cantidades de esmalte en donde sea necesario, y, con la ayuda de la tensión superficial y la depresión en la pieza, el círculo que se forma es casi perfecto. 
 
 ![Proceso de pintado](images/mariquitas_pintandose.jpg)
 
@@ -51,7 +51,7 @@ El proceso para pintar los puntos blancos en los pronotos es el mismo.
 
 Con todas las piezas pintadas y preparadas, es posible montar las mariquitas. El abdomen encaja en el cuerpo a presión, reforzando la unión con adhesivo de cianoacrilato. Los élitros encajan a presión entre el abdomen y el cuerpo, reforzando de nuevo la unión con cianoacrilato. Con esto, la fabricación mecánica queda completada
 
-La iluminación en cada mariquita viene dada por un único led de color blanco cálido (2700 K) de 5 mm. Éste led se suelda a un conductor adecuado y se pega provisionalmente en el espacio destinado a tal uso en el interior del abdomen. Aprovechando ahora los mismos trozos de espuma floral que para pintar, las mariquitas se pueden colocar del revés para rellenar el abdomen con resina epoxi, asegurando así la impermeabilidad. 
+La iluminación en cada mariquita viene dada por un único LED de color blanco cálido (2700 K) de 5 mm. Este LED se suelda a un conductor adecuado y se pega provisionalmente en el espacio destinado a tal uso en el interior del abdomen. Aprovechando ahora los mismos trozos de espuma floral que para pintar, las mariquitas se pueden colocar del revés para rellenar el abdomen con resina epoxi, asegurando así la impermeabilidad. 
 
 ![Mariquitas terminadas](images/mariquitas_hechas.jpg)
 
