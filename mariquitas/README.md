@@ -14,13 +14,18 @@ La mariquita escogida para imitar es la especie *Coccinella septempunctata*, tra
 
 Las mariquitas estarán controladas individualmente por un Arduino Nano, según el siguiente [programa](firmware/mariquitas_v1/mariquitas_v1.ino). 3 o 4 mariquitas son seleccionadas al azar para permanecer encendidas permanentemente al inicio del programa. Las demás alternarán entre encendido y apagado si se detecta movimiento, volviendo a apagarse transcurrido un tiempo programado. 
 
-El controlador, así como el sensor de movimiento, están ubicados en el árbol para simplificar el cableado (y, en el caso del sensor, para permitir su correcto funcionamiento). Para evitar que estos elementos desentonen con el resto del medio, estarán montados en el interior de dos cajas de conexiones impresas con la forma de dos hongos xilófagos. [Uno de ellos](models/soporte_nano.stl) alojará el controlador y [el otro](models/soporte_pir.stl) el sensor PIR. Ambos modelos son remix del siguiente [modelo original de printables](https://www.printables.com/model/681191-mushroom-shelves-with-sturdy-wall-mount-fungus-she), de moWerk. 
+El controlador, así como el sensor de movimiento, están ubicados en el árbol para simplificar el cableado (y, en el caso del sensor, para permitir su correcto funcionamiento). Para evitar que estos elementos desentonen con el resto del medio, estarán montados en el interior de dos cajas de conexiones impresas con la forma de dos hongos xilófagos. [Uno de ellos](models/soporte_nano.stl) alojará el controlador y [el otro](models/soporte_pir.stl) el sensor PIR. Estos dos elementos estarán atornillados al tronco del árbol utilizando el mismo [anclaje](models/soporte_pared.stl), con un tornillo de acero inoxidable. 
 
-Estos dos elementos estarán atornillados al tronco del árbol utilizando el mismo [anclaje](models/soporte_pared.stl), con un tornillo de acero inoxidable. El resto de fijaciones al árbol, en la medida de lo posible, se realizarán mediante una cuerda utilizando un [doble nudo corredizo](images/doble_nudo_corredizo.jpg). De esta forma, a medida que las ramas crezcan en diámetro, el cordel no produce el estrangulamiento de las mismas, que puede ser muy perjudicial para la planta. 
+> [!NOTE] 
+> Los modelos de los soportes del controlador y del PIR son obras derivadas de moWerk en [Printables](https://www.printables.com/) ([Mushroom Shelves with sturdy wall mount | Fungus Shelf](https://www.printables.com/model/681191-mushroom-shelves-with-sturdy-wall-mount-fungus-she)), que a su vez son un remix del archivo original de Moiras_creations en [Thingiverse](https://www.thingiverse.com/) ([Mushroom shelves](https://www.thingiverse.com/thing:6299883)).
+> Ambos modelos están protegidos por la licencia Creative Commons [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), por lo que todas las modificaciones de estos modelos, y solo estos modelos, en este proyecto comparten esa misma licencia.
+> Así, quedan protegidos mediante licencia CC BY-SA los siguientes modelos: [Soporte nano](models/soporte_nano.stl), [Soporte PIR](models/soporte_pir.stl), [Soporte pared](models/soporte_pared.stl). Del mismo modo, cualquier derivado de éstos deberá mantener la misma licencia.
 
-Un [esquema](docs/esquema_electrico_mariquitas.pdf) muestra cómo se conecta el controlador a la instalación eléctrica preexistente.
+El resto de fijaciones al árbol, en la medida de lo posible, se realizarán mediante una cuerda utilizando un [doble nudo corredizo](images/doble_nudo_corredizo.jpg). De esta forma, a medida que las ramas crezcan en diámetro, el cordel no produce el estrangulamiento de las mismas, que puede ser muy perjudicial para la planta. 
 
-<!-- El esquema eléctrico en la carpeta de documentos, por si cabía alguna duda, es una broma. Si has llegado a ver este mensaje, felicidades. Si ya te imaginabas que era broma, de nuevo te felicito. Para aquellas personas que se lo creyeron de verdad, lo siento, pero hay que tener un poco más de pensamiento crítico -->
+El siguiente [esquema](docs/esquema_electrico_mariquitas.pdf) muestra cómo se conecta el controlador a la instalación eléctrica preexistente.
+
+<!-- El esquema eléctrico en la carpeta de documentos, por si cabía alguna duda, es una broma. Si has llegado a ver este mensaje, felicidades. Si ya te imaginabas que era broma, de nuevo te felicito. Para aquellas personas que se lo creyeron de verdad, lo siento. -->
 
 El diseño estructural atravesó varias etapas hasta la geometría final (como se muestra en la siguiente imagen).
 
