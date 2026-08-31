@@ -58,3 +58,5 @@ Al sustituirla por una unidad de repuesto fabricada en la misma tanda, se observ
 ![modelos nuevos](images/setas_nuevas.jpg)
 
 Los modelos están disponibles en la carpeta [models](models), y las instrucciones de impresión pueden consultarse en [Printables](https://www.printables.com/model/1780508-mushroom-light-fixture). No son exactamente iguales a los originales; ambos sombreros son más grandes para dar un resultado más proporcional que el diseño de 2022. La imagen anterior muestra el resultado de su impresión antes de postprocesar.
+
+En conjunto con estos archivos en formato .stl, el presente [documento](/docs/esquemas_setas.pdf) que presenta el diseño en forma de esquema normalizado.
