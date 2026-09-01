@@ -13,8 +13,3 @@ Son una solución simple, con el objetivo de marcar los límites de un camino (p
 ![Instalación terminada de mariquitas luminosas](mariquitas/images/foto_dia.jpg)
 
 Se trata de una instalación que permite iluminar la forma de un árbol, pero sin desentonar ni resultar molesta. Lógicamente, puede utilizarse también para iluminar fachadas u otros elementos mayoritariamente verticales. Más información en [la carpeta de mariquitas](mariquitas).
-
-
-## Licencia
-
-El código de este proyecto, así como el código del formato del contenido del propio proyecto, están protegidos por la [licencia MIT](/LICENSE.md). El contenido del propio proyecto está licenciado bajo la licencia [Creative Commons (4.0 International License) Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/), con las excepciones adecuadamente indicadas.
