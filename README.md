@@ -19,3 +19,10 @@ Se trata de una instalación que permite iluminar la forma de un árbol, pero si
 ![Instalación terminada de la Santa Compaña](santa_compaña/images/compa_a_portada.jpg)
 
 Para hacer honor a la cultura y tradición de Galicia, este modelo de iluminación marca sendas y caminos a la luz de las velas. Más información en [la carpeta de Santa Compaña](santa_compaña). 
+
+## Luciérnagas
+
+![Instalación terminada de luciérnagas](luciernagas/images/prototipo_luciernaga.jpg)
+<!--Imagen temporal mientras no se termina la instalación final-->
+
+Con el objetivo de incluir dinamismo al jadrdín, este modelo incluye parpadeos suaves que imitan el comportamiento de los adorables insectos que son las luciérnagas. Más información en [la carpeta de luciérnagas](luciernagas)

@@ -3,6 +3,9 @@
 El código de este proyecto, así como el formato del contenido, están protegidos por la licencia MIT[^1]. Esto incluye los siguientes archivos:
 
 - [Código mariquitas](mariquitas/firmware/mariquitas_v1/mariquitas_v1.ino)
+- [Primera versión: código luciérnagas](luciernagas/development/luciernagas_v1/luciernagas_v1.ino)
+- [Segunda versión: código luciérnagas](luciernagas/development/luciernagas_v2/luciernagas_v2.ino)
+- [Versión final: código luciérnagas](luciernagas/firmware/luciernagas_v3/luciernagas_v3.ino)
 
 Todos los demás elementos del repositorio están protegidos por la licencia [Creative Commons (4.0 International License) Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/), con las excepciones adecuadamente indicadas. Por lo tanto, el uso comercial de este material no está autorizado bajo esta licencia.
 
