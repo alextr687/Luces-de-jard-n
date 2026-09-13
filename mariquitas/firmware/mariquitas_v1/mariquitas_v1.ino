@@ -15,7 +15,7 @@ struct Ladybug{
 };
 
 //Configuración de los pines de Arduino Nano
-byte pines[] = {3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
+byte pines[] = {3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
 #define sensor 2
 
 const byte numeroXoaninhas = 10;
