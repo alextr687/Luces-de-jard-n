@@ -26,3 +26,10 @@ Para hacer honor a la cultura y tradición de Galicia, este modelo de iluminaci�
 <!--Imagen temporal mientras no se termina la instalación final-->
 
 Con el objetivo de incluir dinamismo al jadrdín, este modelo incluye parpadeos suaves que imitan el comportamiento de los adorables insectos que son las luciérnagas. Más información en [la carpeta de luciérnagas](luciernagas)
+
+## Apliques
+
+[Instalación terminada de apliques para escalera](apliques/images/prueba_apliques_desde_arriba.jpg)
+<!--Imagen temporal mientras no se termina la instalación final-->
+
+Para demostrar también un diseño sobrio y más serio, pero siempre manteniendo la misma filosofía de iluminación, estos apliques iluminan suavemente superficies por delante y por debajo, como escaleras o paredes. Más información en [la carpeta de apliques](apliques).

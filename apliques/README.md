@@ -57,3 +57,10 @@ La prueba consistió en mantener los prototipos completamente sumergidos en agua
 
 Esta prueba no es comparable a una certificación IP, ni representa adecuadamente el envejecimiento a la intemperie. Sin embargo, sí es un indicativo de que soportará la lluvia sin problemas.
 
+Para la instalación, en este caso, de forma extraordinaria y sin que sirva como ejemplo de buen hacer, se optó por utilizar soldaduras con estaño. Habría sido preferible fabricar los apliques con longitud suficiente de cable para poder esconder un empalme adecuado alejado de la vista, pero por error los cables eran demasiado cortos para eso. Por lo tanto, exclusivamente en este modelo, fue necesario utilizar empalmes en una zona muy visible de la instalación (en la contrahuella), por lo que el método de conexión más sutil es el soldado con estaño. En cualquier caso, la soldadura queda protegida con termorretráctil, y alejada del polo contrario. Además, un segundo termorretráctil cubre toda la zona para evitar flexiones dañinas para el conductor.
+
+![Ejemplo de empalme soldado. Primera capa de protección por termorretráctil](images/proteccion_empalme_1.jpg)
+
+![Ejemplo de empalme soldado. Segunda capa de protección por termorretráctil](images/proteccion_empalme_2.jpg)
+
+Con el conductor preparado, éste debe llegar hasta el final del escalón oculto bajo el voladizo de la huella, lo más escondido de la vista posible.
