@@ -1,6 +1,6 @@
 # Mushroom Garden Lights
 
-![setas instaladas](images/setas_instaladas.jpg)
+![setas instaladas](images/setas_instaladas_noche.jpg)
 
 Este proyecto surge de la necesidad de ocultar los puntos de luz utilizados para decorar un jardín. Para ello, se utiliza una seta que esconde un led en su sombrero. Cabe destacar que este proyecto no pretende iluminar un jardín. Su objetivo es ocultar las fuentes de luz para crear pequeños puntos luminosos inspirados en hongos bioluminiscentes, manteniendo la oscuridad del entorno.
 

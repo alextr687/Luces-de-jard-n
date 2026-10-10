@@ -4,7 +4,7 @@ Este repositorio consiste en una serie de soluciones para iluminar el jardín, p
 
 ## Setas
 
-![Instalación terminada de setas luminosas](setas/images/setas_instaladas.jpg)
+![Instalación terminada de setas luminosas](setas/images/setas_instaladas_noche.jpg)
 
 Son una solución simple, con el objetivo de marcar los límites de un camino (por ejemplo), sin llamar la atención, tanto de día como de noche. Más información al respecto en [la carpeta de setas](setas).
 
