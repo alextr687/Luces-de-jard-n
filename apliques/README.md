@@ -1,6 +1,6 @@
 # Vertical Sconces
 
-<!--![Imagen escaleras iluminadas](images/todavia_no_existe)-->
+![Imagen escaleras iluminadas](images/apliques_arriba_lado.jpg)
 
 Este diseño se aleja en estética de los demás, pero no en función ni filosofía. El objetivo es iluminar los escalones de una escalera, limitando la luz que se desperdicia hacia arriba o hacia delante.
 

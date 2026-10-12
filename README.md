@@ -29,7 +29,6 @@ Con el objetivo de incluir dinamismo al jadrdín, este modelo incluye parpadeos 
 
 ## Apliques
 
-[Instalación terminada de apliques para escalera](apliques/images/prueba_apliques_desde_arriba.jpg)
-<!--Imagen temporal mientras no se termina la instalación final-->
+![Instalación terminada de apliques para escalera](apliques/images/apliques_arriba_centro.jpg)
 
 Para demostrar también un diseño sobrio y más serio, pero siempre manteniendo la misma filosofía de iluminación, estos apliques iluminan suavemente superficies por delante y por debajo, como escaleras o paredes. Más información en [la carpeta de apliques](apliques).
